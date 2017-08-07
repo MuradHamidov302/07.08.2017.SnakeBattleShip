@@ -1,0 +1,9 @@
+c:\users\texnousta\documents\visual studio 2017\Projects\snakeyt\snakeyt\bin\Debug\snakeyt.exe.config
+c:\users\texnousta\documents\visual studio 2017\Projects\snakeyt\snakeyt\bin\Debug\snakeyt.exe
+c:\users\texnousta\documents\visual studio 2017\Projects\snakeyt\snakeyt\bin\Debug\snakeyt.pdb
+c:\users\texnousta\documents\visual studio 2017\Projects\snakeyt\snakeyt\obj\Debug\snakeyt.csprojResolveAssemblyReference.cache
+c:\users\texnousta\documents\visual studio 2017\Projects\snakeyt\snakeyt\obj\Debug\snakeyt.Form1.resources
+c:\users\texnousta\documents\visual studio 2017\Projects\snakeyt\snakeyt\obj\Debug\snakeyt.Properties.Resources.resources
+c:\users\texnousta\documents\visual studio 2017\Projects\snakeyt\snakeyt\obj\Debug\snakeyt.csproj.GenerateResource.Cache
+c:\users\texnousta\documents\visual studio 2017\Projects\snakeyt\snakeyt\obj\Debug\snakeyt.exe
+c:\users\texnousta\documents\visual studio 2017\Projects\snakeyt\snakeyt\obj\Debug\snakeyt.pdb
